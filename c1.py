@@ -1,0 +1,6 @@
+print("algorith for addition")
+print("create 2 variables a and b eg: a=5 b=6")
+print("create one more variable as sum")
+print("assign sum = a+b")
+print("then dispaly output by printing variable sum")
+print("addition of 2 numbers completed")
